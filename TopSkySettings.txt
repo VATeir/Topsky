@@ -251,7 +251,7 @@ CPDLC_DCT=1
 CPDLC_AHDG=1
 CPDLC_ASP=1
 
-RDF_Mode=2
+RDF_Mode=0
 Label_COP_MaxChars=3
 Label_FCOP_MaxChars=3
 
