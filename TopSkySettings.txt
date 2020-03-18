@@ -1,6 +1,5 @@
 Setup_COOPANS=1
 
-[EISN]
 Color_Assumed=225,225,179
 Color_Concerned=225,225,179
 Color_Informed=225,225,179
@@ -30,7 +29,7 @@ Color_Active_RD_Infill_Map=41,80,133
 Color_Active_RD_Map=99,253,105
 Track_HistoryDots=5
 
-[EI]
+
 Color_Active_Map=198,174,58
 Color_Active_Map_Type_1=87,87,164
 Color_Active_Map_Type_2=80,162,74
@@ -168,7 +167,7 @@ Track_DivergenceSymbol_Size=8
 
 RwyAppLines_Length=14
 RwyAppLines_Markers=7
-RwyAppLines_MarkerSpacing=2.5
+RwyAppLines_MarkerSpacing=2
 RwyAppLines_Auto=1
 
 
