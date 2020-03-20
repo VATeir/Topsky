@@ -1,6 +1,5 @@
 [DCL]
-DCL:EIDW:AHDG:<adep2> PDC <number> . . . . . CLD <hour><min> <year2><month2><day> <adep2> PDC <number> <callsign> <endheader>CLRD TO <ades> OFF <drwy> HDG <ahdg> CLIMB TO <cfl> VECTORS <npt> SQUAWK <assr> <nfreq> <qnh> <rmk>
-DCL:EIDW:SID:<adep2> PDC <number> . . . . . CLD <hour><min> <year2><month2><day> <adep2> PDC <number> <callsign> <endheader>CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <nfreq> <qnh> <rmk>
+DCL:EIDW:SID:<adep2> PDC <number> . . . . . CLD <hour><min> <year2><month2><day> <adep2> PDC <number> <callsign> <endheader>CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <rfreq> <dfreq> <rmk>
 
 
 [FREETEXT]
