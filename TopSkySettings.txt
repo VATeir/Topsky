@@ -243,7 +243,7 @@ HTTP_SIGMET_Page_Suffix=.txt
 Shortcut_RadarMenu_Combo=0x12
 
 
-CPDLC_MinLevel=195
+CPDLC_MinLevel=285
 CPDLC_Transfer=1
 CPDLC_CFL=1
 CPDLC_DCT=1
