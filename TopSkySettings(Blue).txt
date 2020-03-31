@@ -128,6 +128,9 @@ HTTP_SIGMET_Page_Prefix=data/iffdp/
 HTTP_SIGMET_Pages=6443
 HTTP_SIGMET_Page_Suffix=.txt
 
+Color_East_NAT_Map=150,215,150
+Color_West_NAT_Map=150,215,150
+HTTP_NAT_Tracks_URL=http://142.93.233.139/nat.html
 
 Shortcut_RadarMenu_Combo=0x12
 
