@@ -29,7 +29,6 @@ Color_Active_RD_Infill_Map=41,80,133
 Color_Active_RD_Map=99,253,105
 Track_HistoryDots=5
 
-
 Color_Active_Map=198,174,58
 Color_Active_Map_Type_1=87,87,164
 Color_Active_Map_Type_2=80,162,74
@@ -239,6 +238,10 @@ HTTP_SIGMET_Page_Prefix=data/iffdp/
 HTTP_SIGMET_Pages=6443
 HTTP_SIGMET_Page_Suffix=.txt
 
+Color_East_NAT_Map=150,215,150
+Color_West_NAT_Map=150,215,150
+HTTP_NAT_Tracks_URL=http://142.93.233.139/nat.html
+
 
 Shortcut_RadarMenu_Combo=0x12
 
@@ -318,6 +321,7 @@ Window_CARD=1,1562,870
 Window_LFUNCFP=1,1780,130
 Window_QNHTL=1,1779,715
 Window_GenInfo=1,1679,40
+
 
 [ACCIRL3]
 Window_CARD=1,1562,870
