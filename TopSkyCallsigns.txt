@@ -325,6 +325,7 @@ ASO	Aero Slovakia - Slovakia	Aero Nitra
 ASP	Airsprint Inc. - Canada	Airsprint
 ASQ	Atlantic Southeast Airlines (Atlanta, GA)	Acey
 ASR	?	Sotravia
+ASS	Asiya	Asiya
 AST	?	Air Sarina
 ASU	Compania Aerea del Sur S.A. (Aerosur S.A.) - Uruguay	Asur
 ASW	Asia Airways - Tajikistan	Asiaways
@@ -2120,6 +2121,7 @@ IGN	Interguide Air Limited - Nigeria	Divine Air
 IGO	Interglobe Aviation Private Ltd (T/A Indigo) - India	Ifly
 IGS	Isle Grande Flying School (Hato Rey, PR) - United States	Isla Grande
 IHO	?	Sefeas
+IHS GlobalAID	Global Aid
 IIA	Inter Iles Air - Comoros	Inter Iles
 IIC	?	Inter Air
 IIL	India International Airways (P) Ltd - India	India Inter
@@ -3076,6 +3078,7 @@ NFA	North Flying A/S	North Flying
 NFC	North Atlantic Cargo As	North Atlantic
 NFE	?	Nordic Blue
 NFL	Northaire Freight Lines Ltd. (Davisburg, MI) - United States	Great Lakes
+NFR Night fury
 NFT	Nefteyugansk Aviation Division - Russian Federation	Nefteavia
 NGA	W A A C (Nigeria) Ltd. - Nigeria Airways - Nigeria	Nigeria
 NGB	Nordic Global Airlines Oy	Nordic Global
@@ -4852,7 +4855,7 @@ VBW	Air Burkina - Burkina Faso	Burkina
 VCG	?	Thunder Cat
 VCH	Consorcio Helitec C.A. - Venezuela	Consorcio Helitec
 VCI	CI-Tours - Côte d'Ivoire	CI-Tours
-VCJ	Avcon Jet Malta Ltd	Obelix
+VCJ	Avcon Jet Malta Ltd	Thundercat
 VCM	Volare Air Charter Company (El Paso, TX)	Carmen
 VCN	?	Avcon
 VCR	Cruiser Linhas Aereas Ltda. - Brazil	Voe Cruiser
