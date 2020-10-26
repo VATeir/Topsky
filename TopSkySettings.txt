@@ -55,8 +55,8 @@ Track_PredictionLine=1
 Track_DivergenceSymbol_Size=8
 
 RwyAppLines_Length=14
-RwyAppLines_Markers=7
-RwyAppLines_MarkerSpacing=2.5
+RwyAppLines_Markers=14
+RwyAppLines_MarkerSpacing=1
 RwyAppLines_Auto=1
 
 
@@ -76,12 +76,12 @@ AIW_Type=1
 AIW_Filter_GS=50
 AIW_Floor=3500
 
-Vector_AHDG_FontSize=10
+Vector_AHDG_FontSize=13
 Vector_AHDG_Label_Dist=1
-Vector_QDM_FontSize=10
-Vector_QDM_MaxNumber=12
+Vector_QDM_FontSize=13
+Vector_QDM_MaxNumber=20
 Vector_QDM_Airports=0
-Vector_MinSep_FontSize=10
+Vector_MinSep_FontSize=13
 Vector_MinSep_Label_Time=1
 
 MSAW=1
@@ -101,7 +101,7 @@ APW_Buffer_Vert_L_VFR=0
 
 MTCD_DeAcknowledge=5
 
-FlightLeg_FontSize=10
+FlightLeg_FontSize=12
 
 STCA=1
 STCA_VFR=1
@@ -205,14 +205,28 @@ Equip_ModeS=PISXEHL
 Equip_UseCodes=0
 
 [EIDW_APP]
+Setup_LoadMap=EIDW Control\London West RFC Area
+Setup_LoadMap=EIDW Control\VATRY-BEPAN Primary Coverage Line
+Setup_LoadMap=EIDW Control\ROTEV-NIMAT Bufferzone
+Setup_LoadMap=EIDW Control\BEPAN-BUNED Buffer Zone
+Setup_LoadMap=EIDW Control\EIDW CONTROL WPT
+Setup_LoadMap=EIDW Control\RAMOX and DEXEN Buffer Zones
 Setup_LoadMap=Freetext
 [EIDW_]
+Setup_LoadMap=EIDW Control\London West RFC Area
+Setup_LoadMap=EIDW Control\VATRY-BEPAN Primary Coverage Line
+Setup_LoadMap=EIDW Control\ROTEV-NIMAT Bufferzone
+Setup_LoadMap=EIDW Control\BEPAN-BUNED Buffer Zone
 Setup_LoadMap=EIDW Control\EIDW CONTROL WPT
 Setup_LoadMap=EIDW Control\RAMOX and DEXEN Buffer Zones
 Setup_LoadMap=Freetext
 [EISN_]
 Setup_LoadMap=EISN HIGH LEVEL\Radio Boundary Lines
 Setup_LoadMap=EISN HIGH LEVEL\EISN Waypoints
+Setup_LoadMap=EIDW Control\London West RFC Area
+Setup_LoadMap=EIDW Control\VATRY-BEPAN Primary Coverage Line
+Setup_LoadMap=EIDW Control\ROTEV-NIMAT Bufferzone
+Setup_LoadMap=EIDW Control\BEPAN-BUNED Buffer Zone
 Setup_LoadMap=EIDW Control\EIDW CONTROL WPT
 Setup_LoadMap=EIDW Control\RAMOX and DEXEN Buffer Zones
 Setup_LoadMap=Freetext
