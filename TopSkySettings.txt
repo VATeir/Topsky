@@ -55,8 +55,8 @@ Track_PredictionLine=1
 Track_DivergenceSymbol_Size=8
 
 RwyAppLines_Length=14
-RwyAppLines_Markers=14
-RwyAppLines_MarkerSpacing=1
+RwyAppLines_Markers=7
+RwyAppLines_MarkerSpacing=2
 RwyAppLines_Auto=1
 
 
