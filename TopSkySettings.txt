@@ -24,8 +24,8 @@ Color_Suite_Highlight=225,225,179
 Color_Unconcerned=225,225,179
 Color_Selected=084,182,117
 Color_Track_Highlight=0,255,64
-Color_Rwy_App_Line_Inuse=255,255,255
-Color_Rwy_App_Line_Not_Inuse=255,255,255
+Color_Rwy_App_Line_Inuse=106,147,179
+Color_Rwy_App_Line_Not_Inuse=106,147,179
 Color_Active_RD_Infill_Map=41,80,133
 Color_Active_RD_Map=99,253,105
 
@@ -38,6 +38,7 @@ Airspace_P_Flag=EIDW
 Airspace_No_DUPE_Codes=7000,2000,2200,1200
 Airspace_SIGMET_Areas=EISN
 Airspace_NOTAM_Remove=EGLL
+Airspace_NOTAM_Add=EISN
 Airspace_ASSR_Type=2
 
 
@@ -67,7 +68,7 @@ Label_Field18_Flag_Items=STS/,newbie,NEWBIE,Newbie,beginner
 Label_Rev_Highlight_Delta_ETN=0
 Label_Alt_Digits=2
 
-Areas_NOTAM_Activation=0
+Areas_NOTAM_Activation=1
 
 FPCP_4D_PathBuffer=4000
 
@@ -98,10 +99,11 @@ APW_Buffer_Vert_U=0
 APW_Buffer_Vert_L_IFR=0
 APW_Buffer_Vert_L_VFR=0
 
-
 MTCD_DeAcknowledge=5
 
 FlightLeg_FontSize=10
+FlightLeg_Label_Point=1
+FlightLeg_LineWidth=2 
 
 STCA=1
 STCA_VFR=1
@@ -235,3 +237,4 @@ Window_CARD=1,1562,870
 Window_LFUNCFP=1,1780,130
 Window_QNHTL=1,1779,715
 Window_GenInfo=1,1679,40
+Window_NOTAM=1,700,300,400
