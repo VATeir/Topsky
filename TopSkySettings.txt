@@ -99,6 +99,19 @@ APW_Buffer_Vert_U=0
 APW_Buffer_Vert_L_IFR=0
 APW_Buffer_Vert_L_VFR=0
 
+MTCD=1
+MTCD=AHDG=1
+MTCD_RAM=1
+MTCD_Risks_Label=1
+MTCD_Floor=9500
+MTCD_Sep_Vert_L=800
+MTCD_Sep_Lat=3
+MTCD_PLC_Time=5
+MTCD_Distance_Arr=15
+MTCD_Distance_Dep=5
+MTCD_Distance_Holding=5
+MTCD_Filter_Dep=3
+MTCD_Potential=8000
 MTCD_DeAcknowledge=5
 
 FlightLeg_FontSize=10
@@ -110,8 +123,8 @@ STCA_VFR=1
 STCA_UseCFL=0
 STCA_Sep_Lat_SepLevel=12500
 STCA_Floor=2000
-STCA_Coarse_Sep_Vert_U=1000
-STCA_Coarse_Sep_Vert_L=1000
+STCA_Coarse_Sep_Vert_U=700
+STCA_Coarse_Sep_Vert_L=700
 STCA_FastDiv_Sep_Vert_U=650
 STCA_FastDiv_Sep_Vert_L=650
 STCA_LinPred_Sep_Vert_U=750
@@ -123,7 +136,7 @@ STCA_LevelOff_Sep_Vert_L=700
 
 Menu_MaxListItems=15
 
-Window_SM_LeaveHoldTime=3
+Window_SM_LeaveHoldTime=2
 
 HTTP_SIGMET_Server=http://aviationweather.gov/
 HTTP_SIGMET_Page_Prefix=data/iffdp/
