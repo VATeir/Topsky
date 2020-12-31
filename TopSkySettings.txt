@@ -99,8 +99,7 @@ APW_Buffer_Vert_U=0
 APW_Buffer_Vert_L_IFR=0
 APW_Buffer_Vert_L_VFR=0
 
-MTCD=0
-MTCD=AHDG=1
+MTCD=1
 MTCD_RAM=1
 MTCD_Risks_Label=1
 MTCD_Floor=9500
@@ -111,14 +110,13 @@ MTCD_Distance_Arr=15
 MTCD_Distance_Dep=5
 MTCD_Distance_Holding=5
 MTCD_Filter_Dep=3
-MTCD_Potential=8000
 MTCD_DeAcknowledge=5
 
 FlightLeg_FontSize=10
 FlightLeg_Label_Point=1
 FlightLeg_LineWidth=2 
 
-STCA=0
+STCA=1
 STCA_VFR=1
 STCA_UseCFL=0
 STCA_Sep_Lat_SepLevel=12500
