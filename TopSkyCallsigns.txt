@@ -1343,7 +1343,7 @@ EMP	Empire Air Service, Inc. (Rochester, NY) - United States	Empire
 EMR	Zemmour Airlines	Zemmour
 EMS	Aero Servicios Empresariales, S.A. de C.V. - Mexico	Serviempresarial
 EMT	Emetebe - Ecuador	Emetebe
-ENA	Espana, Direccion General de Aviacion Civil y Telecomunicaciones - Spain	Ena
+ENA	Espana, Direccion General de Aviacion Civil y Telecomunicaciones - Spain	ENIGMA
 ENC	Endecots S.A. - Ecuador	Endecots
 END	Arrendadora y Transportadora Aerea, S.A. de C.V. - Mexico	Arrendadora
 ENE	?	Jet-Ener
