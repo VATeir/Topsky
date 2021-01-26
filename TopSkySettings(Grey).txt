@@ -140,13 +140,6 @@ Color_WM_Border=88,95,99
 Color_WM_Fg=20,20,21
 Color_WM_Frame=88,95,99
 
-System_GUI_Scale_Cursors=1
-System_GUI_Scale_GlobalMenu=1.5
-System_GUI_Scale_Menus=1.5
-System_GUI_Scale_Screen=1.5
-System_GUI_Scale_Tracks=1.5
-System_GUI_Scale_Windows=1.5
-
 
 Malrt_Misap=MAPP
 Malrt_Inbound_EST=EST
