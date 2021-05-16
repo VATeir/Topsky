@@ -148,6 +148,7 @@ Malrt_Irregular=IRR
 Airspace_P_Flag=EIDW
 Airspace_No_DUPE_Codes=7000,2000,2200,1200,2655,0401
 Airspace_SIGMET_Areas=EISN
+Airspace_NOTAM_Add=EISN,EGTT
 Airspace_NOTAM_Remove=EGLL
 Airspace_ASSR_Type=2
 
